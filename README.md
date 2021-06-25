@@ -4,4 +4,4 @@ This analysis is not meant to be a comprehensive analysis of every aspect of the
 
 Most of the data used in this analysis was obtained from kaggle. Data cleaning was mostly done with the help of openrefine. 
 
-
+There is much more I could have done with this analysis. This analysis merely scratches the surface of all the information out there in regards to the impact of the pandemic. 
